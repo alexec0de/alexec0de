@@ -6,4 +6,4 @@
 
 alexec0de/alexec0de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<-- эта страницу не кто не знает в дс думаейте начало ищите подтзказки чтобы взять следующий шифр нипишите мне а лс этап 2 -->
+
