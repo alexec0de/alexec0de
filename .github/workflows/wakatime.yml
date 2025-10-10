@@ -17,7 +17,7 @@ jobs:
         uses: athul/waka-readme@master
         with:
           # Обязательные настройки (выберите один вариант):
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: waka_37bcc7fc-6c84-4f05-baf7-cea60ad47a32
           # ИЛИ для Wakapi:
           # API_BASE_URL: ${{ secrets.WAKAPI_URL }}
           # WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
