@@ -26,5 +26,10 @@
 ###
 
 <div align="left">
+
+  ## ⏱ Время за кодом (WakaTime)
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 </div>
 
